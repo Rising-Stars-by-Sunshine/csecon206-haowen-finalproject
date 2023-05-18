@@ -44,6 +44,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - Evaluations: e.g. efficiency and fairness
 
 ### Code
+The code for the Penalty Kick Game is [Penalty_Kick_Game](https://github.com/Rising-Stars-by-Sunshine/csecon206-haowen-finalproject/blob/main/code/Code_for_Penalty_Kick_Game.ipynb)
 - Game Environment
 - Strategic plays
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
