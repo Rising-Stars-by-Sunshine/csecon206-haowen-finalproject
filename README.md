@@ -18,12 +18,12 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Table of Contents
 
-- polished problem set 1 and problem set 2
-- model
-- code
-- spotlight
-- more about the author
-- references
+- [polished problem set 1 and problem set 2](#polished-ps1-and-ps2)
+- [model](#model)
+- [code](#code)
+- [spotlight](#spotlight)
+- [more about the author](#more-about-the-author)
+- [references](#references)
 
 ### Polished PS1 and PS2
 - **Polished PS 1**: [CSEcon206-Haowen-PS1](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1), the following modifications have been made:
