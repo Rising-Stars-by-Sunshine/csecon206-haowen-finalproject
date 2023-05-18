@@ -146,10 +146,37 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 
 @article{kremer_1996, 
   title={Sports Psychology in Action}, 
-  volume={30}, DOI={https://doi.org/10.1136/bjsm.30.4.366-b}, number={4}, journal={British Journal of Sports Medicine}, author={Kremer, J.}, year={1996}, month={Dec}, pages={366–366} } 
+  volume={30}, DOI={https://doi.org/10.1136/bjsm.30.4.366-b}, 
+  number={4}, 
+  journal={British Journal of Sports Medicine}, 
+  author={Kremer, J.}, 
+  year={1996}, 
+  month={Dec}, 
+  pages={366–366} 
+  } 
 
-@article{mcgarry_franks_2000, title={On winning the penalty shoot-out in soccer}, volume={18}, DOI={https://doi.org/10.1080/02640410050074331}, number={6}, journal={Journal of Sports Sciences}, author={McGarry, Tim and Franks, Ian M.}, year={2000}, month={Jan}, pages={401–409} } 
+@article{mcgarry_franks_2000, 
+  title={On winning the penalty shoot-out in soccer}, 
+  volume={18}, 
+  DOI={https://doi.org/10.1080/02640410050074331}, 
+  number={6}, 
+  journal={Journal of Sports Sciences}, 
+  author={McGarry, Tim and Franks, Ian M.}, 
+  year={2000}, 
+  month={Jan}, 
+  pages={401–409} 
+  } 
 
-@article{van der kamp_2006, title={A field simulation study of the effectiveness of penalty kick strategies in soccer: Late alterations of kick direction increase errors and reduce accuracy}, volume={24}, DOI={https://doi.org/10.1080/02640410500190841}, number={5}, journal={Journal of Sports Sciences}, author={Van Der Kamp, John}, year={2006}, month={May}, pages={467–477} }
+@article{van der kamp_2006, 
+  title={A field simulation study of the effectiveness of penalty kick strategies in soccer: Late alterations of kick direction increase errors and reduce accuracy}, 
+  volume={24}, 
+  DOI={https://doi.org/10.1080/02640410500190841}, 
+  number={5}, 
+  journal={Journal of Sports Sciences}, 
+  author={Van Der Kamp, John}, 
+  year={2006}, 
+  month={May}, 
+  pages={467–477} 
+  }
 ```
 
