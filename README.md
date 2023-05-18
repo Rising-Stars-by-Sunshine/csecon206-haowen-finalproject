@@ -51,11 +51,13 @@ The code for the Penalty Kick Game is [Penalty_Kick_Game](https://github.com/Ris
 <p align="center">Figure 1: Poster of the final project</p>
 
 - Figures
+  - The game matrix for the penalty game is in Figure 2, which shows the payoffs of the corresponding strategy.
   - The detailed representations can be found at this [file](https://github.com/Rising-Stars-by-Sunshine/csecon206-haowen-finalproject/blob/main/code/Code_for_Penalty_Kick_Game.ipynb)
   - The detalied information about the game can be found at this [PDF](https://github.com/Rising-Stars-by-Sunshine/csecon206-haowen-finalproject/blob/main/spotlight/CSECON206_Final_Spring2023_Haowen.pdf)
 ![image](spotlight/matrix.jpg)
 
 <p align="center">Figure 2: Game matrix for the Penalty Kick Game with possibility</p>
+
 - Slides and Presentations
   - This is the [slides](https://github.com/Rising-Stars-by-Sunshine/csecon206-haowen-finalproject/blob/main/spotlight/Econ206_Pre_Haowen.pptx) for presentations, which can be found in the spotlight file. These slides went through the content of the Penalty Kick Game and provide a real-world example.
 
