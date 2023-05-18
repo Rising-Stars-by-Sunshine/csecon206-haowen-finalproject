@@ -26,8 +26,12 @@ Note: please insert the screenshot of the answers to your research question by C
 - references
 
 ### Polished PS1 and PS2
-
-- The link for updated PS 1 is , the following modifications have been made:
+- The link for updated PS 1 is [CSEcon206-Haowen-PS2](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2), the following modifications have been made:
+  - The red log has been cleaned by adding codes before the package
+  - The citations for books and page numbers have been provided following the definition and theorem
+  - The PDF has been uploaded to the repo and attched in the spotlight
+  - The text in the readme was polished by Grammarly
+- **Polished PS 2**: [CSEcon206-Haowen-PS2](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2), the following modifications have been made:
   - The red log has been cleaned by adding codes before the package
   - The citations for books and page numbers have been provided following the definition and theorem
   - The PDF has been uploaded to the repo and attched in the spotlight
