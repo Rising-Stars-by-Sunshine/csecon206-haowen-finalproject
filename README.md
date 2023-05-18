@@ -61,7 +61,8 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### More about the Author
 <div align=center>
-<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/main/spotlight/Haowen.jpg" width="230" alt="Haowen" /><br/>
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/csecon206-haowen-finalproject/main/spotlight/haowen_new.jpg" width="230" alt="Haowen" /><br/>
+
 </div>
  
 - **Self Introduction**: 
