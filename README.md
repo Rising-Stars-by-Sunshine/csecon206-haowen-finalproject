@@ -1,10 +1,10 @@
-# Penalty Kick Game - from Tian Ji’s Horse Rising to Football Penalty
+# Penalty Kick Game - from Tian Ji’s Horse Racing to Football Penalty
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: Haowen Ji, Data Science, 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Disclaimer**: Submissions to Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgments**: I would like to express my sincere gratitude to Professor Luyao Zhang for providing valuable instructions and for inspiring the idea of combining Tian Ji's Horse Racing and the Penalty Kick Game. Thanks Yuchen, Cong Rong, and Yiyuan for their advice and inspiration throughout my final project. Furthermore, I would like to thank everyone in the class for their enthusiasm and contributions. The engaging discussions and shared knowledge have truly made this a stimulating learning experience.
+
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
