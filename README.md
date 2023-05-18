@@ -60,8 +60,8 @@ The code for the Penalty Kick Game is [Penalty_Kick_Game](https://github.com/Ris
 <p align="center">Figure 1: Poster of the final project</p>
 
 - Figures
-- Slides
-- Presentations
+- Slides and Presentations
+  - This is the [slides](https://github.com/Rising-Stars-by-Sunshine/csecon206-haowen-finalproject/blob/main/spotlight/Econ206_Pre_Haowen.pptx) for presentations, which can be found in the spotlight file.
 - Review articles
 - Media appearance
 
