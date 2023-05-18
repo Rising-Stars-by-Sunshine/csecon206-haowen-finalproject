@@ -31,7 +31,7 @@ Note: please insert the screenshot of the answers to your research question by C
   - The red log has been cleaned by adding codes before the package
   - The citations for books and page numbers have been provided following the definition and theorem
   - The PDF has been uploaded to the repo and attched in the spotlight
-  - 
+  - The text in the readme was polished by Grammarly
 
 ### Model
 - Game Environment
