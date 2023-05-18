@@ -6,15 +6,8 @@
 - **Acknowledgments**: I would like to express my sincere gratitude to Professor Luyao Zhang for providing valuable instructions and for inspiring the idea of combining Tian Ji's Horse Racing and the Penalty Kick Game. Thanks Yuchen, Cong Rong, and Yiyuan for their advice and inspiration throughout my final project. Furthermore, I would like to thank everyone in the class for their enthusiasm and contributions. The engaging discussions and shared knowledge have truly made this a stimulating learning experience.
 
 - **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
-  
-   
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
+
+More details about the project summray is in [this PDF](https://github.com/Rising-Stars-by-Sunshine/csecon206-haowen-finalproject/blob/main/spotlight/CSECON206_Final_Spring2023_Haowen.pdf)
 
 ## Table of Contents
 
