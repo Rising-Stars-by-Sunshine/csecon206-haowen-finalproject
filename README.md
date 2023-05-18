@@ -52,7 +52,12 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Spotlight
 - Posters
+![image](spotlight/poster.png)
 
+<p align="center">Figure 1: Poster of the final project</p>
+
+  - The final version of the poster is shown in Figure 1. This poster gives an overview of the Penalty Kick Game. It contains five sections: *Introduction*, *Objective*, *Game Formulation*, *Results*, *Potential Impacts*  
+  - This poster is created by [Canva](https://www.canva.com/)
 - Figures
 - Slides
 - Presentations
@@ -62,7 +67,6 @@ Note: please insert the screenshot of the answers to your research question by C
 ### More about the Author
 <div align=center>
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/csecon206-haowen-finalproject/main/spotlight/haowen_new.jpg" width="230" alt="Haowen" /><br/>
-
 </div>
  
 - **Self Introduction**: 
