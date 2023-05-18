@@ -51,13 +51,13 @@ Note: please insert the screenshot of the answers to your research question by C
 
 
 ### Spotlight
-- Posters
+- Poster
+  - The final version of the poster is shown in Figure 1. This poster gives an overview of the Penalty Kick Game. It contains five sections: *Introduction*, *Objective*, *Game Formulation*, *Results*, *Potential Impacts*  
+  - This poster is created by [Canva](https://www.canva.com/)
 ![image](spotlight/poster.png)
 
 <p align="center">Figure 1: Poster of the final project</p>
 
-  - The final version of the poster is shown in Figure 1. This poster gives an overview of the Penalty Kick Game. It contains five sections: *Introduction*, *Objective*, *Game Formulation*, *Results*, *Potential Impacts*  
-  - This poster is created by [Canva](https://www.canva.com/)
 - Figures
 - Slides
 - Presentations
