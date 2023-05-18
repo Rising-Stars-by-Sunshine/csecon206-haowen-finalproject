@@ -18,11 +18,20 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Table of Contents
 
+- polished problem set 1 and problem set 2
 - model
 - code
 - spotlight
 - more about the author
 - references
+
+### Polished PS1 and PS2
+
+- The link for updated PS 1 is , the following modifications have been made:
+  - The red log has been cleaned by adding codes before the package
+  - The citations for books and page numbers have been provided following the definition and theorem
+  - The PDF has been uploaded to the repo and attched in the spotlight
+  - 
 
 ### Model
 - Game Environment
