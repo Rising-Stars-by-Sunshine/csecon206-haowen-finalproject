@@ -98,15 +98,55 @@ Haowen Ji is a senior student in Data Science major at DKU, who is intereted in 
 - Van Der Kamp, John. 2006. “A Field Simulation Study of the Effectiveness of Penalty Kick Strategies in Soccer: Late Alterations of Kick Direction Increase Errors and Reduce Accuracy.” Journal of Sports Sciences 24 (5): 467–77. https://doi.org/10.1080/02640410500190841.
 
 ```
-@article{biggs_kramer_mitroff_2018, title={Using Cognitive Psychology Research to Inform Professional Visual Search Operations}, volume={7}, DOI={https://doi.org/10.1016/j.jarmac.2018.04.001}, number={2}, journal={Journal of Applied Research in Memory and Cognition}, author={Biggs, Adam T. and Kramer, Michelle R. and Mitroff, Stephen R.}, year={2018}, month={Jun}, pages={189–198} }
+@article{biggs_kramer_mitroff_2018, 
+  title={Using Cognitive Psychology Research to Inform Professional Visual Search Operations}, 
+  volume={7}, 
+  DOI={https://doi.org/10.1016/j.jarmac.2018.04.001}, 
+  number={2}, 
+  journal={Journal of Applied Research in Memory and Cognition}, 
+  author={Biggs, Adam T. and Kramer, Michelle R. and Mitroff, Stephen R.}, 
+  year={2018}, 
+  month={Jun}, 
+  pages={189–198} 
+  }
 
-@article{dugatkin_bekoff_2003, title={Play and the evolution of fairness: a game theory model}, volume={60}, DOI={https://doi.org/10.1016/s0376-6357(02)00120-1}, number={3}, journal={Behavioural Processes}, author={Dugatkin, Lee Alan and Bekoff, Marc}, year={2003}, month={Jan}, pages={209–214} } 
+@article{dugatkin_bekoff_2003, 
+  title={Play and the evolution of fairness: a game theory model}, 
+  volume={60}, 
+  DOI={https://doi.org/10.1016/s0376-6357(02)00120-1}, 
+  number={3}, 
+  journal={Behavioural Processes}, 
+  author={Dugatkin, Lee Alan and Bekoff, Marc}, 
+  year={2003}, 
+  month={Jan}, 
+  pages={209–214} 
+  } 
 
-@article{gilad_kaish_loeb_1984, title={From economic behavior to behavioral economics: The behavioral uprising in economics}, volume={13}, DOI={https://doi.org/10.1016/0090-5720(84)90001-9}, number={2}, journal={Journal of Behavioral Economics}, author={Gilad, Benjamin and Kaish, Stanley and Loeb, Peter D.}, year={1984}, month={Dec}, pages={3–24} } 
+@article{gilad_kaish_loeb_1984, 
+  title={From economic behavior to behavioral economics: The behavioral uprising in economics}, 
+  volume={13}, 
+  DOI={https://doi.org/10.1016/0090-5720(84)90001-9}, 
+  number={2}, journal={Journal of Behavioral Economics}, 
+  author={Gilad, Benjamin and Kaish, Stanley and Loeb, Peter D.}, 
+  year={1984}, 
+  month={Dec}, 
+  pages={3–24} } 
 
-@article{jordet_hartman_visscher_lemmink_2007, title={Kicks from the penalty mark in soccer: The roles of stress,skill, and fatigue for kick outcomes}, volume={25}, DOI={https://doi.org/10.1080/02640410600624020}, number={2}, journal={Journal of Sports Sciences}, author={Jordet, Geir and Hartman, Esther and Visscher, Chris and Lemmink, Koen A. P. M.}, year={2007}, month={Jan}, pages={121–129} } 
+@article{jordet_hartman_visscher_lemmink_2007, 
+  title={Kicks from the penalty mark in soccer: The roles of stress,skill, and fatigue for kick outcomes}, 
+  volume={25}, 
+  DOI={https://doi.org/10.1080/02640410600624020}, 
+  number={2}, 
+  journal={Journal of Sports Sciences}, 
+  author={Jordet, Geir and Hartman, Esther and Visscher, Chris and Lemmink, Koen A. P. M.}, 
+  year={2007}, 
+  month={Jan}, 
+  pages={121–129} 
+  } 
 
-@article{kremer_1996, title={Sports Psychology in Action}, volume={30}, DOI={https://doi.org/10.1136/bjsm.30.4.366-b}, number={4}, journal={British Journal of Sports Medicine}, author={Kremer, J.}, year={1996}, month={Dec}, pages={366–366} } 
+@article{kremer_1996, 
+  title={Sports Psychology in Action}, 
+  volume={30}, DOI={https://doi.org/10.1136/bjsm.30.4.366-b}, number={4}, journal={British Journal of Sports Medicine}, author={Kremer, J.}, year={1996}, month={Dec}, pages={366–366} } 
 
 @article{mcgarry_franks_2000, title={On winning the penalty shoot-out in soccer}, volume={18}, DOI={https://doi.org/10.1080/02640410050074331}, number={6}, journal={Journal of Sports Sciences}, author={McGarry, Tim and Franks, Ian M.}, year={2000}, month={Jan}, pages={401–409} } 
 
