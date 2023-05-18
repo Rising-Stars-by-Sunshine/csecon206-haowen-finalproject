@@ -52,6 +52,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Spotlight
 - Posters
+
 - Figures
 - Slides
 - Presentations
@@ -59,8 +60,13 @@ Note: please insert the screenshot of the answers to your research question by C
 - Media appearance
 
 ### More about the Author
-- headshot
-- self-introduction
+<div align=center>
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Haowen-STATS201-Final/main/spotlight/Haowen.jpg" width="230" alt="Haowen" /><br/>
+</div>
+ 
+- **Self Introduction**: 
+Haowen Ji is a senior student in Data Science major at DKU, who is intereted in the data science’s application in the real world, such as price evaluation and automatic driving and still seeking more implementation opportunities to leverage data science.
+
 - Final reflections 
   - intellectual growth
   - professional growth
