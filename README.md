@@ -26,10 +26,11 @@ Note: please insert the screenshot of the answers to your research question by C
 - references
 
 ### Polished PS1 and PS2
-- The link for updated PS 1 is [CSEcon206-Haowen-PS2](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2), the following modifications have been made:
-  - The red log has been cleaned by adding codes before the package
-  - The citations for books and page numbers have been provided following the definition and theorem
-  - The PDF has been uploaded to the repo and attched in the spotlight
+- **Polished PS 1**: [CSEcon206-Haowen-PS1](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS1), the following modifications have been made:
+  - The game environment part has been modified based on the feedback, more specificly, the strategies of the two players has been clearly stated and the payoff has been adjusted based on the strategy part
+  - The backward induction solution has been revised, the wrong concepts have been replaced and the logic has been coherent
+  - The efficiency and fairness part has been improved to be clearer, and the definitions of efficiency and equity are supported by the literature
+  - The citations of terminologies has been added
   - The text in the readme was polished by Grammarly
 - **Polished PS 2**: [CSEcon206-Haowen-PS2](https://github.com/Rising-Stars-by-Sunshine/CSEcon206-Haowen-PS2), the following modifications have been made:
   - The red log has been cleaned by adding codes before the package
